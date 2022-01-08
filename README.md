@@ -1,0 +1,1 @@
+STM32F042 CMSIS Meson project template for VSCode
